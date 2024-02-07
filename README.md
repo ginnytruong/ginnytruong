@@ -2,14 +2,14 @@ Hello! 👋 I'm Ginny, an aspiring software developer from Manchester who is eag
 
 ## About Me
 
-- 🌱 I'll be starting a software development bootcamp with Northcoders in January. 
+- 🌱 Currently on an intensive 13 week bootcamp with Northcoders!
 - 💼 I have previous experience in Fashion Buying and Merchandising.
 - 🎓 I graduated in Business Management from Manchester Metropolitan University.
 - 😄 Pronouns: She/Her.
 
 ## Skills
 
-- **Programming Languages:** I'm currently learning javascript ahead of my bootcamp.
+- **Programming Languages:** javascript, HTML, CSS.
 - **Soft Skills:** problem-solving, communication and collaboration.
 
 ## Connect with Me
