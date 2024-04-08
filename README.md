@@ -1,7 +1,5 @@
 ## About Me
 
-## About Me
-
 Hello! 👋 I'm Ginny, a Junior Software Developer based in Manchester. 
 I recently underwent an intensive 13-week bootcamp with Northcoders to facilitate my transition from the fashion industry to the tech world. 
 During this bootcamp, I honed my skills in JavaScript, TypeScript, SQL, Test Driven Development (TDD), REST API development, frontend frameworks like React, and collaborative practices such as pair-programming and Agile methodologies. 
