@@ -18,9 +18,9 @@ My background in fashion buying and merchandising, coupled with this technical t
 
 ## Hobbies & Interests
 
-- **Travel:** I have a keen interest in world history, art, and food.
-- **French:** Currently undertaking independent study to learn French.
-- **Fashion:** Regularly follow runway shows and stay updated on the latest trends.
+- **Travel:** I have a keen interest in world history, art, and food. I seek out opportunities to visit historical sites, museums, and art galleries and try local cuisines during my travels.
+- **French:** I am currently undertaking independent study to learn French. My goal is to enhance my proficiency in the language, enabling me to converse with family members and locals during my travels.
+- **Fashion:**  I maintain a keen interest in fashion, regularly following runway shows and staying updated on the latest trends and news in the industry. I also enjoy sewing tote bags and clothes, which I showcase and sell online.
 
 ## Connect with Me
 
