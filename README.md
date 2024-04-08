@@ -9,12 +9,14 @@ My background in fashion buying and merchandising, coupled with this technical t
 
 ## Skills
 
-- **Languages:** JavaScript, TypeScript, SQL
-- **Testing:** Test Driven Development (TDD), Jest, SuperTest
-- **Back-end:** SQL, PostgreSQL, REST API, Node.js, Express
-- **Front-end:** HTML, CSS, React, Redux, Tailwind, React Native
-- **Hosting:** Render
-- **Other:** Pair-programming, Agile, Git
+- **Languages:** JavaScript | TypeScript | SQL
+- **Testing:** Test Driven Development (TDD) | Jest | SuperTest | ESLint
+- **Back-end:** SQL | PostgreSQL | MySQL | REST API | Node.js | Express
+- **Front-end:** HTML | CSS | React | Chart.js | MaterialUI
+- **Frameworks:** Electron | Vite | MediaPipe
+- **Cloud Technologies:** Google Cloud Platform
+- **Hosting:** Render | Netlify
+- **Other:** Pair-programming | Agile | Git
 
 ## Hobbies & Interests
 
